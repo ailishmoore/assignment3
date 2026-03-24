@@ -22,16 +22,16 @@ assignment3-metagenomics/
 │   └── *.bracken.report               # Bracken-corrected Kraken reports
 │
 ├── results/
-│   ├── A1_abundance_barplot.pdf       # Species-level relative abundance
-│   ├── A2_genus_abundance_barplot.pdf # Genus-level relative abundance
-│   ├── A3a_species_kraken_vs_bracken.pdf  # Species-level tool comparison
-│   ├── A3b_genus_kraken_vs_bracken.pdf    # Genus-level tool comparison
-│   ├── B_alpha_diversity.pdf          # Alpha diversity (Chao1, Shannon, Berger-Parker)
-│   ├── C1_beta_diversity_pcoa.pdf     # Bray-Curtis PCoA
-│   ├── C2_beta_diversity_nmds.pdf     # Bray-Curtis NMDS
+│   ├── A1_abundance_barplot.png       # Species-level relative abundance
+│   ├── A2_genus_abundance_barplot.png # Genus-level relative abundance
+│   ├── A3a_species_kraken_vs_bracken.png  # Species-level tool comparison
+│   ├── A3b_genus_kraken_vs_bracken.png    # Genus-level tool comparison
+│   ├── B_alpha_diversity.png          # Alpha diversity (Chao1, Shannon, Berger-Parker)
+│   ├── C1_beta_diversity_pcoa.png     # Bray-Curtis PCoA
+│   ├── C2_beta_diversity_nmds.png     # Bray-Curtis NMDS
 │   ├── C_permanova_results.csv        # PERMANOVA statistics
-│   ├── D_aldex2_MW_plot.pdf           # ALDEx2 MW plot
-│   ├── D_aldex2_effect_size.pdf       # ALDEx2 effect size bar chart
+│   ├── D_aldex2_MW_plot.png           # ALDEx2 MW plot
+│   ├── D_aldex2_effect_size.png       # ALDEx2 effect size bar chart
 │   └── D_aldex2_results.csv           # Full ALDEx2 results table
 │
 └── figures/                           # Figures embedded in this README
